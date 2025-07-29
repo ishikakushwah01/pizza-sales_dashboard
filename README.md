@@ -1,2 +1,3 @@
-# pizza-sales_dashboard
-Pizza Sales and Revenue Analysis using Python and Pandas
+<p align="center">
+  <img src="pizza-web-banner.avif" width="100%">
+</p>

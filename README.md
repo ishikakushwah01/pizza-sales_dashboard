@@ -20,15 +20,16 @@ This project analyzes pizza sales data to extract key business insights using *P
 ---
 
 ## 📁 Project Structure
-<pre><code>
+
 pizza-sales-analysis/
 │
-├── pizza_sales.csv             ← Dataset
-├── pizza_analysis.ipynb        ← Jupyter Notebook (main analysis)
-├── sql_queries.sql             ← SQL insights
-├── README.md                   ← This file
-└── images/                     ← Screenshots (optional)
-</code></pre>
+├── data/
+│   ├── orders.csv
+│   ├── order_details.csv
+│   ├── pizzas.csv
+│   └── pizza_types.csv
+├── pizza_analysis.ipynb        ← Jupyter Notebook
+├── README.md                   ← Project overview
 
 --- 
 

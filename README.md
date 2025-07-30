@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales & Revenue Analysis Dashboard
 
-This project analyzes pizza sales data to extract key business insights using *Python, **SQL, and **Excel*. The goal is to understand sales patterns, customer preferences, and help businesses make better decisions.
+This project analyzes pizza sales data to extract key business insights using *Python, **SQL . The goal is to understand sales patterns, customer preferences, and help businesses make better decisions.
 
 ---
 
@@ -12,10 +12,9 @@ This project analyzes pizza sales data to extract key business insights using *P
 ---
 
 ## 🧰 Tools Used
-- *Python* (Pandas, Matplotlib)
+- *Python* (Pandas, Matplotlib, Seaborn)
 - *SQL* (Data exploration)
-- *Excel* (Interactive dashboard)
-- *Jupyter Notebook* (.ipynb)
+- *Google Colab* (.ipynb)
 
 ---
 
@@ -28,7 +27,7 @@ pizza-sales-analysis/
 │   ├── order_details.csv
 │   ├── pizzas.csv
 │   └── pizza_types.csv
-├── pizza_analysis.ipynb        ← Jupyter Notebook
+├── pizza-sales_dashboard.ipynb        ← Google Colab
 ├── README.md                   ← Project overview
 
 --- 
@@ -44,7 +43,7 @@ pizza-sales-analysis/
 - Practiced cleaning and analyzing real-world datasets
 - Used Pandas to group and aggregate data
 - Created visual charts using Matplotlib
-- Wrote clear and well-commented code in Jupyter Notebook
+- Wrote clear and well-commented code in Google Colab
 - Summarized insights for business decision-making
 
 ---
